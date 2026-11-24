@@ -1,0 +1,9 @@
+Q1 - Category wise sales: Electronics (156,905) aur Clothing (155,580) lagbhag barabar hain, aur Beauty (143,515) sabse peeche hai.
+
+Q2 - Monthly sales: May 2023 mein sabse zyada sales (53,150) hui aur September 2023 mein sabse kam (23,620). October, December aur February bhi strong mahine rahe. January 2024 mein sirf 1 din ka data hai.
+
+Q3 - Gender wise sales: Female (232,840, 510 orders) aur Male (223,160, 490 orders) ki sales lagbhag barabar hai. Female sirf 2% aage hai.
+
+Q4 - Age group wise sales: 45-54 (97,235), 25-34 (97,090) aur 35-44 (96,835) lagbhag barabar sales dete hain. 18-24 sabse peeche hai (74,650, sirf 149 orders).
+
+Q4 - Age group wise sales: 45-54 (97,235), 25-34 (97,090) aur 35-44 (96,835) lagbhag barabar sales dete hain. 18-24 sabse peeche hai (74,650, sirf 149 orders).
